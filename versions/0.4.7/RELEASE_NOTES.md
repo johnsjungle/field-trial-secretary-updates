@@ -10,5 +10,6 @@ Introduces the HALO identity and adds practical guidance for preparing to use th
 - Adds preparation guidance encouraging users to install HALO early, import and review their hound database, and complete several test trials before a live event.
 - Calls out the Admin Tools that create realistic test trials and quickly populate preliminary, final, runoff, and BIF/BIE scores.
 - Preserves existing database locations, update identifiers, and official Field Trial Secretary role labels so current installations can update safely.
+- Adds verified Ubuntu x86_64 AppImage and `.deb` packages, Linux user-data storage under `~/.local/share/HALO`, and automatic AppImage updates.
 
 This release includes all trial-management, JC/QC, BIF/BIE, multi-field, printing, updating, and archive improvements from v0.4.6 and earlier.
